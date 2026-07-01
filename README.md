@@ -223,9 +223,7 @@ http://127.0.0.1:8000
 
 # 📸 Demo
 
-Demo Video
-
-*(Add your YouTube link here)*
+https://youtu.be/ZPION3SMUp0
 
 ---
 
