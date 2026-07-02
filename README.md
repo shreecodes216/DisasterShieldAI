@@ -252,7 +252,7 @@ https://youtu.be/ZPION3SMUp0
 
 # 👩‍💻 Developed By
 
-**Somoshree**
+**Somoshree Pal**
 
 _ECE Undergraduate_
 
